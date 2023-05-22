@@ -106,7 +106,7 @@ $(document).ready(function(){
     /* 4. SlitSlider ....................... */
     /* ------------------------------------- */
 
-    $('.bg-1 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/slide-1.jpg') center").css("background-size", "cover");
+    $('.bg-1 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/cd_background1.jpg') center").css("background-size", "cover");
     $('.bg-2 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/slide-2.jpg') center").css("background-size", "cover");
     $('.bg-3 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/slide-3.jpg') center").css("background-size", "cover");
     $('.bg-4 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/slide-4.jpg') center").css("background-size", "cover");
