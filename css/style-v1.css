@@ -451,8 +451,8 @@ sup {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #FFFFFF;
-  opacity: 0.7;
+  background: #ffffff;
+  opacity: 0.6;
 }
 .sl-slider-wrapper .sl-slider .sl-slide-inner, .sl-slider-wrapper .sl-slider .sl-content-slice {
   background-size: cover;
