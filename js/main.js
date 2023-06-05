@@ -110,7 +110,7 @@ $(document).ready(function(){
     $('.bg-2 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/cd_background2.jpg') center").css("background-size", "cover");
     $('.bg-3 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/cd_background3.jpg') center").css("background-size", "cover");
     $('.bg-4 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/cd_background4.jpg') center").css("background-size", "cover");
-    $('.bg-5 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/slide-5.jpg') center").css("background-size", "cover");
+    $('.bg-5 .sl-slide-inner , .bg-1 .sl-content-slice').css("background", "url('img/cd_background5.jpg') center").css("background-size", "cover");
 
     $(function() {
 			
