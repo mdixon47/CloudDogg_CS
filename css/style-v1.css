@@ -283,7 +283,7 @@ p {
   font-size: 1.4rem;
   line-height: 1.8;
   color: #666666;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -452,7 +452,7 @@ sup {
   width: 100%;
   height: 100%;
   background: #ffffff;
-  opacity: 0.6;
+  opacity: 0.5;
 }
 .sl-slider-wrapper .sl-slider .sl-slide-inner, .sl-slider-wrapper .sl-slider .sl-content-slice {
   background-size: cover;
@@ -477,7 +477,7 @@ sup {
   -o-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
-  opacity: 1;
+  opacity: 0.8;
 }
 
 /* Horizontal slice */
